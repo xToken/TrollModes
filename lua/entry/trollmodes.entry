@@ -1,0 +1,4 @@
+modEntry = {
+	Client = "lua/troll_client.lua",
+	Priority = 100
+}
